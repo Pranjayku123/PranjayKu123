@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, NodeJS, ExpressJS, MongoDB**
 
-- 👯 I’m looking to collaborate on [Full Stack Project](Unavailable Now)
+- 👯 I’m looking to collaborate on [Full Stack Project]
 
-- 🤝 I’m looking for help with [Unavailable Now](Unavailable Now)
+- 🤝 I’m looking for help with [Unavailable Now]
 
 - 📫 How to reach me **pranjayku123@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranjay-kumar-13b6a41b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjay-kumar-13b6a41b3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranjay-kumar-13b6a41b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/pranjay-kumar-13b6a41b3/](https://www.linkedin.com/in/pranjay-kumar-13b6a41b3/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
