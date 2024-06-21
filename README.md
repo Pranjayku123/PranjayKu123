@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask mHi 👋, I'm Pranjay Kumar<br>A passionate frontend developer from India.<br>🔭 I’m currently working on [MHHC](Unavailable Now)<br><br>🌱 I’m currently learning React, NodeJS, ExpressJS, MongoDB<br><br>👯 I’m looking to collaborate on [Full Stack Project]<br><br>🤝 I’m looking for help with [Unavailable Now]<br><br>📫 How to reach me pranjayku123@gmail.com<br><br>⚡ Fun fact I think I am funny
+Hi 👋, I'm Pranjay Kumar<br>A passionate frontend developer from India.<br>🔭 I’m currently working on [MHHC](Unavailable Now)<br><br>🌱 I’m currently learning React, NodeJS, ExpressJS, MongoDB<br><br>👯 I’m looking to collaborate on [Full Stack Project]<br><br>🤝 I’m looking for help with [Unavailable Now]<br><br>📫 How to reach me pranjayku123@gmail.com<br><br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
